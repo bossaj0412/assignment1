@@ -24,7 +24,6 @@ const Colab = () => {
 
             <Container main={"Embrace Cloud"} para={"With Cloud-First accelerate innovation and optimize performance"} link={"Cloud Servicesarrow-black"} img={img4}/>
 
-            <Container main={"Embrace Cloud"} para={"With Cloud-First accelerate innovation and optimize performance"} link={"Cloud Servicesarrow-black"} img={img4}/>
         </div>
 
         
