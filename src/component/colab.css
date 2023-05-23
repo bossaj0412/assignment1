@@ -1,0 +1,13 @@
+.colab-container{
+    display: flex;
+    /* background-color: red; */
+    justify-content: center;
+    
+}
+
+@media screen and (max-width:1200px) {
+    .colab-container{
+        justify-content: flex-start;
+        /* background-color: green; */
+    }
+}
